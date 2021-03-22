@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955890407258",
+    "project_id": "teenshop-5202a",
+    "storage_bucket": "teenshop-5202a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955890407258:android:74bdf7c3c4b2087e6f8563",
+        "android_client_info": {
+          "package_name": "com.example.teen_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955890407258-iin63qqndc9oftchqjlk1l09r0m3i22s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZCSNacwDCO1p7PI15ez6sE6UlP6NIk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955890407258-iin63qqndc9oftchqjlk1l09r0m3i22s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
